@@ -1,0 +1,64 @@
+#logo {
+  top: 10px;
+  left: 1000px;
+  height: 55px;
+}
+
+#cimg {
+  height: ;
+}
+  
+
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+#footer {
+  width: 984px;
+  position: absolute;
+  bottom: 0px;
+  height: 71px;
+  border-top: 8px solid gray;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #343434
+}
+
+#footer ul {
+  margin: 15px 0 10px 0;
+  text-align: center
+}
+
+#footer li {
+  display: inline;
+  list-style-type: none;
+}
+
+#footer li a {
+  color: #343434;
+  text-decoration: none;
+  margin: 0 5px
+}
+
+#footer li a:visited {
+  text-decoration: none
+}
+
+#footer li a:hover {
+  text-decoration: underline
+}
+
+
+#footer p {
+  text-align: center
+}
+
+#button{
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
